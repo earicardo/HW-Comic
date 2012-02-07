@@ -1,0 +1,13 @@
+Create a progressively-enhanced comic using CSS Animations
+
+- must have at least 3 panels
+
+- must use original artwork (I don't care if it's done in MS Paint, as long as you make it)
+
+- comic must render normally for browsers that don't support CSS animations - use modernizr CSS selectors
+
+- panels should render one after another - use delays to stagger the animations
+
+- at least one animation must have more than two frames
+
+- create a nice, simple layout for the page
